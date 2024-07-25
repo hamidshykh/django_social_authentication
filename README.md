@@ -1,2 +1,2 @@
 # django_social_authentication
- login throught social accounts Google , Facebook , Github
+ login through social accounts Google , Facebook , Github
